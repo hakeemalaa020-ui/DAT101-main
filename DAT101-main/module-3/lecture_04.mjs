@@ -1,8 +1,2 @@
-"use strict"
+"use strict";
 import { printOut } from "../../common/script/utils.mjs";
-
-const text = "Hello, World !";
-
-
-
-printOut
